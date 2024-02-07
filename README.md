@@ -3,7 +3,7 @@
 Description of your project goes here.
 
 ## Content
-# Custom genetic Algoryth
+### Custom genetic Algoryth
 This is a complex algorythm that generates binary vectors in 40 dimensions that calculates the fitness function by using crossover and mutation methods. This process has been improved by using Multithreading.
 ![Image](https://raw.githubusercontent.com/MariosChartsias/IndecesPrediction/main/genetic-algorithm.png)
 
