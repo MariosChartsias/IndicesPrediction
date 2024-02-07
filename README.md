@@ -13,6 +13,6 @@ After that complex solution of finding the binary vectors. Algorythm start the p
 ## Final Results
 This is the final result of Improving the accuracy by using those methods
 
-![Image](https://raw.githubusercontent.com/MariosChartsias/IndecesPrediction/main/results.png)
+![Image](https://raw.githubusercontent.com/MariosChartsias/IndecesPrediction/main/final_results.png)
 
 
