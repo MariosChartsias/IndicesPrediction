@@ -1,6 +1,6 @@
 # Predicting OCEAN indeces with ML models
 
-Description of your project goes here.
+This project is about to predict the indeces O,C,E,A,N of Big Five Personality Trais 
 
 ## Content
 ### Custom genetic Algorythm
