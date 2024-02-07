@@ -2,22 +2,13 @@
 
 Description of your project goes here.
 
-## Installation
-
-Instructions on how to install your project.
-
 ## Usage
 
-Instructions on how to use your project.
+This project will be beneficial of understanding the prediction of every index of Psychological Parameters
 
 ## Example
+This is the final result of Improving the accuracy by using those methods
 
 [![Image](https://raw.githubusercontent.com/MariosChartsias/IndecesPrediction/main/results.png)
 
-## Contributing
 
-Guidelines on how others can contribute to your project.
-
-## License
-
-Information about the license of your project.
