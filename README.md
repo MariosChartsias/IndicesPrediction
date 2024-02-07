@@ -12,7 +12,7 @@ Instructions on how to use your project.
 
 ## Example
 
-![Image](image.png)
+[![Image](image.png)](https://raw.githubusercontent.com/MariosChartsias/IndecesPrediction/main/results.png)
 
 ## Contributing
 
