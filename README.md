@@ -1,4 +1,4 @@
-# Project Name
+# Predicting OCEAN indeces with ML models
 
 Description of your project goes here.
 
