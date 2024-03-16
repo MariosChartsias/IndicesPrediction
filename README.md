@@ -1,4 +1,4 @@
-# Predicting OCEAN indeces with ML models
+# Predicting OCEAN indices with ML models
 
 This project is about to predict the indices O,C,E,A,N of Big Five Personality Trais 
 
